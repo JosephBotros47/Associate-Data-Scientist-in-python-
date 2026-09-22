@@ -11,13 +11,19 @@ Welcome to my personal repository documenting my step-by-step path toward becomi
 | **A** | `A - Introduction to python` | Python Basics, Variables, Lists, Functions, Packages & NumPy | ✅ Completed |
 | **B** | `B - Intermediate Python` | Matplotlib (Data Vis), Dictionaries, Pandas DataFrames, Control Flow & Loops | ✅ Completed |
 | **C** | `C - Data Manipulation` | Data Manipulation with `pandas`, Transforming, Slicing & Indexing DataFrames | ✅ Completed |
+| **C** | `C - Data Joining ` | Data Joining with pandas | ✅ Completed |
+| **D** | `D - Data Visualization` | Introduction to Data Visualization with matplotlib | ✅ Completed |
+| **E** | `E - Data Visualization` | Introduction to Data Visualization with Seaborn | ✅ Completed |
+| **F** | `F - Python ` | Advanced Python tutorial | ✅ Completed |
+| **F** | `F - Data Exploration` | Exploratory Data analysis in python | ✅ Completed |
+| **F** | `F - Data Cleaning` | Cleaning data in python | ✅ Completed |
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 - **Language:** Python 🐍
-- **Libraries:** Pandas, NumPy, Matplotlib
+- **Libraries:** Pandas, NumPy, Matplotlib, seaborn
 - **Environment:** Jupyter Notebooks / DataCamp Shell
 - **Version Control:** Git & GitHub
 
@@ -28,9 +34,15 @@ Welcome to my personal repository documenting my step-by-step path toward becomi
 - [x] Python Basics & Data Structures
 - [x] Control Flow, Loops & Data Visualization
 - [x] Data Manipulation with Pandas
-- [ ] Exploratory Data Analysis (EDA)
-- [ ] Joining Data with Pandas
-- [ ] Applied Statistics & Machine Learning Basics
+- [X] Exploratory Data Analysis (EDA)
+- [X] Joining Data with Pandas
+- [X] Cleaning Data with Pandas
+- [X] Data visualization with matplotlib and seaborn
+- [ ] Applied Statistics in data science
+- [ ] Hypothesis testing in python
+- [ ] Supervised learning 
+- [ ] UnSupervised learning
+- [ ] Machine learning with tree-based models in python 
 
 ---
 
